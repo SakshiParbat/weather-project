@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "weather-project-721c5",
+    "todo": "to-do-list-app-a9b0f",
+    "weather": "weather-project-721c5"
+  },
+  "targets": {},
+  "etags": {}
+}
